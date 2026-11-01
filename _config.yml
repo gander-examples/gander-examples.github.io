@@ -1,0 +1,15 @@
+title: gander-examples
+tagline: examples and samples by gander
+description: Examples and samples by gander.
+url: https://gander-examples.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-examples
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

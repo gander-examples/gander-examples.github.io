@@ -1,0 +1,9 @@
+# Public repositories of the gander-examples organization, grouped for the landing page.
+# Each project: name, repo (owner/name), description, language, optional links (label + url).
+
+- group: Archived
+  archived: true
+  projects:
+    - name: StackOverflow-Traefik
+      repo: gander-examples/StackOverflow-Traefik
+      description: A minimal Docker Compose and Traefik example with local mkcert certificates, prepared to illustrate a Stack Overflow answer.
